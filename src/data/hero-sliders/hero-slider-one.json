@@ -2,15 +2,22 @@
   {
     "id": 1,
     "title": "Smart Products",
-    "subtitle": "Winter Offer 2024 Collection",
-    "image": "/assets/img/slider/single-slide-hm1-2.png",
+    "subtitle": "Winter Offer 2024",
+    "image": "/assets/img/slider/slide1.jpg",
     "url": "/shop-grid-standard"
   },
   {
     "id": 2,
     "title": "Smart Products",
-    "subtitle": "Summer Offer 2024 Collection",
-    "image": "/assets/img/slider/single-slide-1.png",
+    "subtitle": "Summer Offer 2024",
+    "image": "/assets/img/slider/slide2.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "title": "Smart Products",
+    "subtitle": "Summer Offer 2024",
+    "image": "/assets/img/slider/slide3.jpg",
     "url": "/shop-grid-standard"
   }
 ]
